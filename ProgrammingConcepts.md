@@ -1,6 +1,6 @@
-## Programming Concepts
+# Programming Concepts
 
-## (King of Coke)
+# (King of Coke)
 
 ```
 5646369 Kim Sehun
@@ -24,7 +24,7 @@
 
 
 
-# Conditional Statements /Loops
+## Conditional Statements /Loops
 
 - Conditional Statements
     - It will be used in many places, but one example will be used to
@@ -33,7 +33,7 @@
     - It will be used for multiple bullets in the boss, such as Arrays.
 
 
-# Functions / Classes / Arrays
+## Functions / Classes / Arrays
 
 - Functions
     - It will be used in many areas such as function keyPressed()/
@@ -42,5 +42,3 @@
     - It will be used in many areas such as Vactor, Player, Boss, Script, etc.
 - Arrays
     - It will be used for boss's multiple bullets with For().
-
-
