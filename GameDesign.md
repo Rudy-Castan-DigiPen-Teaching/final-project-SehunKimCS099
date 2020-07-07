@@ -1,0 +1,6 @@
+![1](./Game Design Document (Sehun.Kim)/1.PNG)
+![2](./Game Design Document (Sehun.Kim)/2.PNG)
+![3](./Game Design Document (Sehun.Kim)/3.PNG)
+![4](./Game Design Document (Sehun.Kim)/4.PNG)
+![5](./Game Design Document (Sehun.Kim)/5.PNG)
+![6](./Game Design Document (Sehun.Kim)/6.PNG)
