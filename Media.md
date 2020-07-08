@@ -1,5 +1,5 @@
 Audio  
-Biz Baz Studio - Controlled Distress (Rock) [Free2Use]  
+Biz Baz Studio - Controlled Distress (Rock) [Free2Use] (main.mp3)  
 	https://www.youtube.com/watch?v=P4dhbmAg2UA  
 		►Copyright (Urheberrecht): You're free to use the  
 		song and you can also monetize the video on  
@@ -7,18 +7,18 @@ Biz Baz Studio - Controlled Distress (Rock) [Free2Use]
 		Controlled Distress by Biz Baz Studio" into your  
 		video description..  
   
-Biz Baz Studio - Action Time (spannende Musik) [Free2Use]  
+Biz Baz Studio - Action Time (spannende Musik) [Free2Use] (battle.mp3)  
 	https://www.youtube.com/watch?v=uL5nGP6I8K0  
 		►Copyright: You're free to use the song and you   
 		can also monetize the video on Youtube, just paste  
  		in "Song title: Action Time by Biz Baz Studio" into  
  		your video description..  
 		  
-乗り物02  
+乗り物02 (victory.mp3)  
 	https://maoudamashii.jokersounds.com/list/game7.html  
   
   
-SFX  
+SFX (jump.wav, hit.wav, boom.wav)  
 I made all SFXs a sfxr program  
 	http://www.drpetter.se/project_sfxr.html  
   
